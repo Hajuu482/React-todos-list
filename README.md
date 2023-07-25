@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
+
+# React-Todos-Lists
+
+
+![Screenshot 2023-07-25 115215](https://github.com/Hajuu482/React-todos-list/assets/134909889/cd24a34c-49eb-4df2-99b0-6367073361cb)
+
+
+
+![Screenshot 2023-07-25 120126](https://github.com/Hajuu482/React-todos-list/assets/134909889/5b0d0895-3b9a-4bf3-8ace-81c276aba77e)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
